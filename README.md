@@ -1,7 +1,6 @@
 # MOOC Ultra-low-power STM32 extras MOOC with hands-on exercises
 
-WARNING  : 
-    This material has been created in 2019 and is delivered as it is.
+Disclaimer: This material was created in 2019 and is delivered as is.
 
 ## MOOC purpose 
 This MOOC provides additional information and extra hands-on exercises to help boost the performance of your application with our ultra-low-power STM32L4 MCUs and our user-friendly development ecosystem.
